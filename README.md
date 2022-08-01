@@ -7,5 +7,5 @@ Refactored Sniffle haha
 - Installation
 - How to start
 - Description
-- Contributing
+
 
